@@ -1,0 +1,9 @@
+div{
+    background-color: #772277;
+}
+table div{
+    background-color: inherit;
+}
+#specialCase {
+background-color: #444444;
+}
